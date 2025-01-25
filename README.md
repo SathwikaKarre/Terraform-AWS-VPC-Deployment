@@ -11,6 +11,11 @@ This project provides an end-to-end solution for deploying a secure AWS infrastr
 - **AWS VPC**: For creating isolated networks.
 - **AWS NACLs**: Controls the flow of traffic at the subnet level.
 
+Architecture of the AWS-VPC Deployment using Terraform:
+![image](https://github.com/user-attachments/assets/4e4ed5b4-3780-4405-a7ac-6bd9dc019c56)
+
+
+
 ## **Technologies Used**
 - **Terraform**: Infrastructure as code tool used to manage and provision AWS resources.
 - **AWS VPC**: For network isolation and segmentation.
