@@ -45,7 +45,7 @@ Install AWS CLI to configure your AWS credentials.
 
 1. Ensure you have AWS credentials configured on your local system:
 
-aws configure
+      aws configure
 
 
 2. Terraform will use these credentials to provision resources in AWS.
@@ -100,7 +100,7 @@ If you'd like to contribute to this project, follow these steps:
 
 
 
-License
+## License
 
 MIT License - See LICENSE for more information.
 
