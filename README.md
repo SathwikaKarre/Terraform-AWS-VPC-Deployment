@@ -12,6 +12,8 @@ This project provides an end-to-end solution for deploying a secure AWS infrastr
 - **AWS NACLs**: Controls the flow of traffic at the subnet level.
 
 Architecture of the AWS-VPC Deployment using Terraform:
+
+
 ![image](https://github.com/user-attachments/assets/4e4ed5b4-3780-4405-a7ac-6bd9dc019c56)
 
 
@@ -35,9 +37,10 @@ AWS VPC -> Public Subnet -> EC2 Instance -> Sample Application -> Private Subnet
 
 ### 1. **Clone the repository**
 Clone the repository to your local machine or cloud environment.
-bash
-git clone https://github.com/<your-username>/Terraform-AWS-VPC-Deployment.git
-cd Terraform-AWS-VPC-Deployment
+
+            git clone https://github.com/<your-username>/Terraform-AWS-VPC-Deployment.git
+            
+            cd Terraform-AWS-VPC-Deployment
 
 ## 2. Install Terraform
 
